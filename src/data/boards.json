@@ -1,0 +1,39 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "name": "Product Roadmap 2026",
+      "description": "High-level initiatives and feature epics planned for the 2026 product roadmap."
+    },
+    {
+      "id": 2,
+      "name": "Marketing Campaigns",
+      "description": "Current and upcoming marketing campaigns, including content, channels, and launch timelines."
+    },
+    {
+      "id": 3,
+      "name": "Engineering Sprint Board",
+      "description": "Day-to-day engineering work, including sprint tasks, bugs, and technical debt items."
+    },
+    {
+      "id": 4,
+      "name": "Customer Onboarding",
+      "description": "Tasks and playbooks for guiding new customers from contract signature through go-live."
+    },
+    {
+      "id": 5,
+      "name": "Customer Support Queue",
+      "description": "Open support tickets organized by severity, customer impact, and current owner."
+    },
+    {
+      "id": 6,
+      "name": "Design System & UX",
+      "description": "Design system improvements, component library tasks, and UX research follow-ups."
+    },
+    {
+      "id": 7,
+      "name": "Internal Operations",
+      "description": "HR, finance, and office operations work, including policy updates and vendor management."
+    }
+  ]
+}
